@@ -2,7 +2,7 @@ import turtle
 import os 
 
 wn = turtle.Screen()
-wn.title("pong by @junsik")
+wn.title("pong by @hanpark")
 wn.bgcolor("black")
 wn.setup(width=800, height=600)
 wn.tracer(0)
